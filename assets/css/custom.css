@@ -1,0 +1,33 @@
+.featured-products .product_wrap .product_img {
+    height  : 138px !important;
+    overflow: hidden;
+}
+
+.deal_of_day product_wrap .product_img {
+    height  : 200px !important;
+    overflow: hidden;
+}
+
+.related_product .product .product_img {
+    height  : 280px !important;
+    overflow: hidden;
+}
+
+.category_product .product_img {
+    height  : 280px !important;
+    overflow: hidden;
+}
+
+.searched_product .product_img {
+    height  : 280px !important;
+    overflow: hidden;
+}
+
+.exclusive_products .product_wrap .product_img {
+    height  : 270px !important;
+    overflow: hidden;
+}
+
+.views {
+    font-size: 13px !important;
+}
